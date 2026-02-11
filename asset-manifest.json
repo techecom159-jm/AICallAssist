@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/AICallAssist/static/js/main.16071e7d.js",
+    "main.js": "/AICallAssist/static/js/main.16668347.js",
     "index.html": "/AICallAssist/index.html",
-    "main.16071e7d.js.map": "/AICallAssist/static/js/main.16071e7d.js.map"
+    "main.16668347.js.map": "/AICallAssist/static/js/main.16668347.js.map"
   },
   "entrypoints": [
-    "static/js/main.16071e7d.js"
+    "static/js/main.16668347.js"
   ]
 }
